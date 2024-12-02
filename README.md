@@ -2,7 +2,7 @@
 
 Before running the Jupyter Notebook, install requirements below.
 
-numpy
-pandas
-matplotlib
-PyKrige
+numpy <br />
+pandas <br />
+matplotlib <br />
+PyKrige <br />
